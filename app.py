@@ -168,7 +168,7 @@ Analiza el texto y responde:
         }
 
 
-@app.route("/dialogflow", methods=["POST"])
+@app.route("/luminar", methods=["POST"])
 def procesar_texto():
     data = request.get_json()
     texto = data.get("mensaje", "")
