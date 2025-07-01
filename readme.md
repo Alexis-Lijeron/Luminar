@@ -17,7 +17,7 @@ Dispositivo Tuya compatible
 Credenciales Tuya Developer
 
 1. Clonar el repositorio
-bashgit clone <tu-repositorio>
+bashgit clone https://github.com/Alexis-Lijeron/Luminar.git
 cd control-foco-inteligente
 2. Crear entorno virtual
 bashpython -m venv venv
